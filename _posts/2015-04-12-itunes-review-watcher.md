@@ -114,7 +114,7 @@ plenty of REST modules available and I settled for
 [restify](http://mcavage.me/node-restify/). That made it easy to implement the
 calls necessary for the app:
 
-* `GET /storeItems/:storeItemId` returns a list of all *iTunes Store* items in
+* `GET /storeItems` returns a list of all *iTunes Store* items in
 the server's database
 * `GET /storeItems/:storeItemId/reviews` returns a list of all reviews for a given *iTunes Store* item ID
 
