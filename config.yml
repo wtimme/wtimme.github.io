@@ -4,3 +4,9 @@ title: "wtimme"
 theme: "PaperMod"
 params:
   disableThemeToggle: true
+menu:
+  main:
+    - identifier: archives
+      name: archive
+      url: /archives/
+      weight: 30
