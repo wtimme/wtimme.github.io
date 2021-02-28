@@ -2,6 +2,9 @@
 title: "Software Recommendations"
 date: 2021-02-28T13:22:13+01:00
 draft: false
+cover:
+    image: "/stock-photos/pexels-thisisengineering-3861972-720x480.jpg"
+    alt: "Female Software Engineer Coding on Computer"
 ---
 
 On this page, I'll collect software that makes my life easier.
@@ -42,3 +45,5 @@ On this page, I'll collect software that makes my life easier.
 | [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/) | Privacy-friendly email client |
 | [Tunerly](https://f-droid.org/en/packages/com.tunerly/) |  Pitch tuning app for Guitar, Bass and Ukulele. |
 | [Zapp](https://f-droid.org/en/packages/de.christinecoenen.code.zapp/) | Watch German public broadcast streams and videos |
+
+_Post cover image attribution: "Female Software Engineer Coding on Computer", by [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via [pexels.com](https://www.pexels.com/license/)_
