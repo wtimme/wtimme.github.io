@@ -2,6 +2,9 @@
 title: "Crawling the App Store"
 date: 2021-02-28T12:48:56+01:00
 draft: false
+cover:
+    image: "/stock-photos/pexels-brett-jordan-5444435-720x407.jpg"
+    alt: "Photo of the screen of an iOS device with the App Store icon being visible"
 ---
 
 On this page, I collect my research results for App Store crawlers.
@@ -34,3 +37,5 @@ These are tools and frameworks that I came across while looking at the projects.
 | - | - |
 | [Scrapy](https://scrapy.org/) | "An open source and collaborative framework for extracting the data you need from websites."
 | [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store) | A dataset on Kaggle. Not directly related to _app_ app stores, but might be worth taking a look at in regards to how the data is stored. |
+
+_Post cover image attribution: "Blue and White Logo Guessing Game", by [Brett Jordan](https://www.pexels.com/@brettjordan) via [pexels.com](https://www.pexels.com/license/)_
