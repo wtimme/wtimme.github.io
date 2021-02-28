@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://wtimme.github.io/"
 languageCode = "en-us"
 title = "wtimme"
 theme = "PaperMod"
