@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "iTunes Review Watcher"
 date: 2015-04-12 18:20:00 +0100
+draft: false
 ---
 
 ### Introduction
@@ -35,7 +35,7 @@ application to crash.
 * There's **little history for the reviews**. Older ones disappear and it's
 difficult to paint a broader image.
 
-![Screenshot of the iTunes Connect app describing the territory list dilemma](/assets/itunes-connect-territory-list.png "This is one of my biggest issue with this app")
+![Screenshot of the iTunes Connect app describing the territory list dilemma](/itunes-connect-territory-list.png "This is one of my biggest issue with this app")
 
 ### Product requirements
 These are my requirements of the project:
@@ -126,7 +126,7 @@ displays the list of reviews that the server has scraped. For the first
 iterations I don't plan on winning any award with the UI, so the basic
 [Cocoa Touch](https://en.wikipedia.org/wiki/Cocoa_Touch) elements will do.
 
-![Screenshot of my app's interface](/assets/facebook-reviews.png "This is a first version of my app")
+![Screenshot of my app's interface](/facebook-reviews.png "This is a first version of my app")
 
 ### Current status
 Having the list of reviews in the app is already quite a success for me.
