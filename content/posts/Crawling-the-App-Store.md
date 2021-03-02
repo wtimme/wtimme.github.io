@@ -38,4 +38,7 @@ These are tools and frameworks that I came across while looking at the projects.
 | [Scrapy](https://scrapy.org/) | "An open source and collaborative framework for extracting the data you need from websites."
 | [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store) | A dataset on Kaggle. Not directly related to _app_ app stores, but might be worth taking a look at in regards to how the data is stored. |
 
-_Post cover image attribution: "Blue and White Logo Guessing Game", by [Brett Jordan](https://www.pexels.com/@brettjordan) via [pexels.com](https://www.pexels.com/license/)_
+---
+
+Image attributions:
+- ["Blue and White Logo Guessing Game"](https://www.pexels.com/photo/blue-and-white-logo-guessing-game-5444435/), by [Brett Jordan](https://www.pexels.com/@brettjordan) via [pexels.com](https://www.pexels.com/license/)

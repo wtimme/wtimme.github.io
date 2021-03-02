@@ -46,4 +46,7 @@ On this page, I'll collect software that makes my life easier.
 | [Tunerly](https://f-droid.org/en/packages/com.tunerly/) |  Pitch tuning app for Guitar, Bass and Ukulele. |
 | [Zapp](https://f-droid.org/en/packages/de.christinecoenen.code.zapp/) | Watch German public broadcast streams and videos |
 
-_Post cover image attribution: "Female Software Engineer Coding on Computer", by [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via [pexels.com](https://www.pexels.com/license/)_
+---
+
+Image attributions:
+- ["Female Software Engineer Coding on Computer"](https://www.pexels.com/photo/female-software-engineer-coding-on-computer-3861972/) by [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via [pexels.com](https://www.pexels.com/license/)_
