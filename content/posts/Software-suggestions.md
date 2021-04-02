@@ -29,6 +29,7 @@ On this page, I'll collect software that makes my life easier.
 | [youtube-dl](https://ytdl-org.github.io/youtube-dl/) | Downloads videos from a lot of sites, e.g. YouTube. | Unix, Windows, macOS |
 | [MediathekView](https://mediathekview.de/) | Downloads content from German's public TV network (e.g. ARD) | Unix, Windows, macOS |
 | [VidCutter](https://github.com/ozmartian/vidcutter) | Easily cuts video files using a GUI | Unix |
+| [fre:ac](https://www.freac.org/) | Rip audio CDs - supports the lossless FLAC format | Unix, Windows, macOS |
 
 ## Android apps
 
