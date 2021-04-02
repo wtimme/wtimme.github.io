@@ -30,6 +30,7 @@ On this page, I'll collect software that makes my life easier.
 | [MediathekView](https://mediathekview.de/) | Downloads content from German's public TV network (e.g. ARD) | Unix, Windows, macOS |
 | [VidCutter](https://github.com/ozmartian/vidcutter) | Easily cuts video files using a GUI | Unix |
 | [fre:ac](https://www.freac.org/) | Rip audio CDs - supports the lossless FLAC format | Unix, Windows, macOS |
+| [Freetube](https://freetubeapp.io/) | Private YouTube client | Unix, Windows, macOS |
 
 ## Android apps
 
